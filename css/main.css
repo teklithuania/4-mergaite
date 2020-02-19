@@ -27,12 +27,20 @@ body {
             a {
                 display: inline-block;
                 float: left;
-                margin-left: 10px;
+                margin-left: 40px;
                 font-size: 20px;
                 line-height: 20px;
+                text-decoration: none;
+                color: #C1C1C1;
             }
-                .btn {
-
+                .btn {           
+                   text-transform: uppercase;
+                   font-size: 15px;
+                   border-radius: 20px;
+                   margin-top: -2px;
+                   padding-left: 20px;
+                   padding-right: 20px;
+                   border: 2px solid #c1c1c1;
                 }
     section {
         display: inline-block;
@@ -48,10 +56,12 @@ body {
             margin-right: 4%;
         }
             h1 {
-
+                font-size: 100px;
+                color: #c1c1c1;
             }
             p {
-
+                color: #c1c1c1;
+                font-size: 30px;
             }
         .girl {
             display: inline-block;
