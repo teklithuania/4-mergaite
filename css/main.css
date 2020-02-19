@@ -1,32 +1,51 @@
 body {
-
+    background-color: #F8F8F8;
 }
 
 .container {
-
+    display: inline-block;
+    width: 800px;
+    margin-top: 20px;
+    margin-left: calc((100% - 800px) / 2);
 }
 
     header {
-
+        display: inline-block;
+        width: 100%;
     }
-
         .logo {
-
+            display: inline-block;
+            float: left;
+            height: 60px;
         }
         nav {
-
+            display: inline-block;
+            float: right;
+            margin-top: 20px;
+            font-size: 20px;
         }
             a {
-
+                display: inline-block;
+                float: left;
+                margin-left: 10px;
+                font-size: 20px;
+                line-height: 20px;
             }
                 .btn {
 
                 }
     section {
-
+        display: inline-block;
+        width: 100%;
+        margin-top: 80px;
     }
         div {
-
+            display: inline-block;
+            float: left;
+            width: 42%;
+            margin-top: 40px;
+            margin-left: 4%;
+            margin-right: 4%;
         }
             h1 {
 
@@ -35,5 +54,9 @@ body {
 
             }
         .girl {
-
+            display: inline-block;
+            float: right;
+            width: 42%;
+            margin-left: 4%;
+            margin-right: 4%;
         }        
