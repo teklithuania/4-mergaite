@@ -27,20 +27,21 @@ body {
             a {
                 display: inline-block;
                 float: left;
-                margin-left: 40px;
+                margin-left: 25px;
                 font-size: 20px;
                 line-height: 20px;
                 text-decoration: none;
-                color: #C1C1C1;
+                color: #bcbcbc;
             }
                 .btn {           
                    text-transform: uppercase;
                    font-size: 15px;
                    border-radius: 20px;
-                   margin-top: -2px;
-                   padding-left: 20px;
-                   padding-right: 20px;
-                   border: 2px solid #c1c1c1;
+                   margin-top: -4px;
+                   padding: 2px;
+                   padding-left: 15px;
+                   padding-right: 15px;
+                   border: 2px solid #bcbcbc;
                 }
     section {
         display: inline-block;
@@ -56,11 +57,16 @@ body {
             margin-right: 4%;
         }
             h1 {
-                font-size: 100px;
-                color: #c1c1c1;
+                display: inline-block;
+                width: 100%;
+                font-size: 80px;
+                line-height: 80px;
+                color: #bcbcbc;
             }
             p {
-                color: #c1c1c1;
+                display: inline-block;
+                width: 100%;
+                color: #bcbcbc;
                 font-size: 30px;
             }
         .girl {
